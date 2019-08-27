@@ -80,7 +80,7 @@ Remember and review these definitions, as they are the basis for what we'll work
 
 As we mentioned previously, obsessive-compulsive disorder means that you have intrusive thoughts, images, or impulses that lead to distress:
 
-![](static/explore/M1_1.png)
+![](static/images/M1_1.png)
 
 Obsessions can be thoughts, images or doubts that:
 1) You don't want (intrusive).  
@@ -119,7 +119,7 @@ It's also important to remember that obsessions often become so automatic that y
 
 As we mentioned earlier, compulsions have the function of reducing the distress that comes with obsessions:
 
-![](static/explore/M1_2.png)
+![](static/images/M1_2.png)
 
 Compulsions are everything you do to relieve or neutralize the distress and anxiety that comes with obsessions. Compulsions may bring relief, but it is only temporary. As a result, you may find yourself having to do more and more compulsions over time. In this way compulsions can become so time consuming that they begin to interfere with your life as they disrupt your ability to do things you'd like to be doing (working, seeing friends). Sometimes people will change their behaviours so they can avoid situations that would provoke obsessions and urges to do compulsions. This can also interfere with your life in important ways.
 
