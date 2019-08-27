@@ -6,9 +6,22 @@ heroSubHeading: 'Read more about the treatment'
 heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
 ---
 
-Internet-delivered cognitive behaviour therapy for obsessive-compulsive disorder (OCD-NET) is a therapist-guided self-help programme divided into 10 parts (modules). Each module consists of text with information, as well as homework assignments and exercises to complete. This treatment requires that you actively engage with the material and are willing to try exercises from the treatment on your own. We also recommend that you put aside one hour per day to spend on the treatment in order to fully benefit from OCD-NET.
+# How does it work?
 
-Treatment with OCD-NET lasts 10 weeks and you will be in contact with a therapist on the platform throughout treatment. You communicate by sending messages to each other (very similar to e-mail or SMS messages). Your therapist will support you, answer questions, and give feedback on exercises. Because the treatment is delivered remotely, you are able to get rapid feedback on the exercises instead of having to wait for the next appointment. You are encouraged to message your therapist as soon as questions or difficulties arise.
+* You access OCD-NET from a web browser
+* The platform contains reading material, worksheets and homework assignments
+* You communicate with your therapist through a built-in message system (similar to text messages or e-mail)
+* Your therapist reads and responds to messages every weekday
+
+# What is OCD-NET?
+
+* OCD-NET is a therapist-guided treatment, meaning that you receive guidance from a therapist, but where you complete exercises and homework assignments on your own
+* Treatment lasts 10 weeks
+* The treatment is based on cognitive behaviour therapy, and contains the same elements that you would encounter in a regular face-to-face treatment
+
+## Overview of treatment
+
+Here's an overview of the different parts (modules) of OCD-NET.
 
 ### Modules 1-4: Learning about your OCD
 
