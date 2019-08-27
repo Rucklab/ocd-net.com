@@ -1,6 +1,6 @@
 ---
 title: 'Explore OCD-NET'
-weight: 1
+weight: 2
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Module 1 of OCD-NET'
 buttonLink: 'explore'
