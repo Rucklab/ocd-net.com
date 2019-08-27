@@ -1,4 +1,4 @@
-baseURL = "www.ocd-net.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "OCD-NET"
 themesDir = "themes"
@@ -11,24 +11,24 @@ theme = "hugo-hero-theme"
     meta_description = "OCD-NET is an internet-delivered cognitive behaviour therapy developed by researchers at Karolinska Institutet in Stockholm, Sweden."
     meta_og_title = "OCD-NET"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_url = "https://ocd-net.com"
+    meta_og_image = ""
+    meta_og_description = ""
 
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "About OCD-NET"
+	url = "/about-ocd-net/"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "Explore"
+    url = "/explore/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Meet the team"
+    url = "/meet-the-team/"
     weight = 3
 
 [[menu.main]]

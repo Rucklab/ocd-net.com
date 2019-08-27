@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on OCD-NET</title>
-    <link>/</link>
-    <description>Recent content in Home on OCD-NET</description>
+    <title>Meet the team on OCD-NET</title>
+    <link>/meet-the-team/</link>
+    <description>Recent content in Meet the team on OCD-NET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/meet-the-team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
