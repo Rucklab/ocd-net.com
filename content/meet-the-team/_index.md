@@ -8,7 +8,7 @@ heroBackground: ''
 
 OCD-NET is developed by researchers at Karolinska Institutet in Stockholm, Sweden. OCD-NET has been evaluated in six clinical trials to date with results indicating that it is as effective as regular face-to-face CBT, while requiring less therapist time per patient and with the advantage of being accessible from any device connected to the internet (Andersson et al. 2011, 2012, 2014, 2015; Rück et al. 2018). Similarly, BDD-NET has been evaluated in two clinical trials with comparable results (Enander et al. 2014, 2016, 2019). Both treatments were initially developed in Swedish but have been translated to English and evaluated in pilot studies in New York (OCD-NET; Patel et al. (2017)) and an international pilot study (BDD-NET; Gentile et al. (2019)).
 
-The researchers involved in OCD-NET are **Oskar Flygare**, Lic. Psychologist and PhD Student; **Christian Rück**, MD, PhD, Associate Professor; **Erik Andersson**, Lic. Psychologist, PhD; and **Brjánn Ljótsson**, Lic. Psychologist, PhD, Associate Professor. You can read more about the research team at [www.rucklab.com](www.rucklab.com).
+The researchers involved in OCD-NET are **Oskar Flygare**, Lic. Psychologist and PhD Student; **Christian Rück**, MD, PhD, Associate Professor; **Erik Andersson**, Lic. Psychologist, PhD; and **Brjánn Ljótsson**, Lic. Psychologist, PhD, Associate Professor. You can read more about the research team at [https://www.rucklab.com](https://www.rucklab.com).
 
 ## References
 
