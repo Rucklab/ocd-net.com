@@ -8,16 +8,20 @@ heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
 
 # How does it work?
 
-* You access OCD-NET from a web browser
-* The platform contains reading material, worksheets and homework assignments
-* You communicate with your therapist through a built-in message system (similar to text messages or e-mail)
-* Your therapist reads and responds to messages every weekday
+<ul>
+    <li>You access OCD-NET from a web browser</li>
+    <li>The platform contains reading material, worksheets and homework assignments</li>
+    <li>You communicate with your therapist through a built-in message system (similar to text messages or e-mail)</li>
+    <li>Your therapist reads and responds to messages every weekday</li>
+</ul>
 
 # What is OCD-NET?
 
-* OCD-NET is a therapist-guided treatment, meaning that you receive guidance from a therapist, but where you complete exercises and homework assignments on your own
-* Treatment lasts 10 weeks
-* The treatment is based on cognitive behaviour therapy, and contains the same elements that you would encounter in a regular face-to-face treatment
+<ul>
+    <li>OCD-NET is a therapist-guided treatment, meaning that you receive guidance from a therapist, but where you complete exercises and homework assignments on your own</li>
+    <li>Treatment lasts 10 weeks</li>
+    <li>The treatment is based on cognitive behaviour therapy, and contains the same elements that you would encounter in a regular face-to-face treatment</li>
+</ul>
 
 ## Overview of treatment
 
