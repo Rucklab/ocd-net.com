@@ -8,5 +8,4 @@ button: ''
 
 # Explore OCD-NET
 
-<iframe src="https://player.vimeo.com/video/345008016" width="640" height="444" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/345008016">OCD-NET demo</a> from <a href="https://vimeo.com/user27619035">Oskar Flygare</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+You can watch a video of the main features in OCD-NET at [this link](https://vimeo.com/345008016)
